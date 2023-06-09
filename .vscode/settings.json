@@ -1,0 +1,10 @@
+{
+  "prettier.configPath": ".prettierrc",
+  "prettier.documentSelectors": [
+    "*.{ts,js,tsx}"
+  ],
+  "prettier.jsxSingleQuote": true,
+  "prettier.prettierPath": "./node_modules/prettier",
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 120
+}
