@@ -7,6 +7,7 @@ import { resolvers } from './src/graphql/resolvers.js';
 import { typeDefs } from './src/graphql/schema.js';
 
 // Hotfix release after tag // more fix
+// More changes
 
 const server = new ApolloServer({
   typeDefs,
